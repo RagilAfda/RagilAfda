@@ -1,5 +1,5 @@
 # 💫 About Me:
-Saya adalah Mahasiswa aktif di salah satu universitas Bandar Lampung, Indonesia. Saya sangat suka dengan dunia pemrograman dari SMA. Dimulai dengan dunia cheat di beberapa game hingga sampai saat ini. Saya tertarik untuk mempelajari beberapa bahasa pemrograman walau saat ini baru 1 bahasa yang saya kuasai yaitu Python.
+Saya adalah Mahasiswa aktif di salah satu universitas di Bandar Lampung, Indonesia. Saya sangat suka dengan dunia pemrograman dari SMA. Dimulai dengan dunia cheat di beberapa game hingga sampai saat ini. Saya tertarik untuk mempelajari beberapa bahasa pemrograman walau saat ini baru 1 bahasa yang saya kuasai yaitu Python. My biggest hope in the world is of course I want to be a reverse engineer, network engineer, cyber security and outside of that topic of course I want to travel to various countries.
 
 
 ## 🌐 Socials:
